@@ -1,45 +1,53 @@
-**!! Atenção: Renomeie o seu repositório para (Tema)_(NomeDoProjeto). !!** 
+# Questões - Juíz Online
 
-Temas:
- - Grafos1
- - Grafos2
- - PD
- - D&C
- - Greed
- - Final 
- 
- **!! *Não coloque os nomes dos alunos no título do repositório*. Exemplo de título correto: Grafos2_Labirinto-do-Minotauro !!**
- 
- (Apague essa seção)
-
-# NomedoProjeto
-
-**Número da Lista**: X<br>
-**Conteúdo da Disciplina**: XXXXXXXXXX<br>
+**Número da Lista**: 24<br>
+**Conteúdo da Disciplina**: D&C<br>
 
 ## Alunos
-|Matrícula | Aluno |
-| -- | -- |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
 
-## Sobre 
-Descreva os objetivos do seu projeto e como ele funciona. 
+| Matrícula  | Aluno                               |
+| ---------- | ----------------------------------- |
+| 21/1030649 | Yan Werlley de Freitas Paulo |
+| 21/1030881 | Samuel Gomes de Souza         |
+
+## Apresentação
+
+A apresentação pode ser vista [aqui]().
+
+## Sobre
+
+Este projeto consiste na realização de exercícios da plataforma de juiz online LeetCode. São desenvolvidos problemas Difícil e Média
+complexidade sobre Dividir e Conquistar.
 
 ## Screenshots
-Adicione 3 ou mais screenshots do projeto em funcionamento.
 
-## Instalação 
-**Linguagem**: xxxxxx<br>
-**Framework**: (caso exista)<br>
-Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
+#### Exercício 01 - 
 
-## Uso 
-Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
+Dificuldade: Difícil <br>
+Descrição do Problema: []()<br>
+Solução: ![]()
 
-## Outros 
+#### Exercício 02 - 
+
+Dificuldade: Difícil <br>
+Descrição do Problema: []()<br>
+Solução: ![]()
+
+#### Exercício 03 - 
+
+Dificuldade: Difícil <br>
+Descrição do Problema: []()<br>
+Solução: ![]()
+
+## Instalação
+
+**Linguagem**: Python <br>
+
+## Uso
+
+Para executar os códigos, é recomendado clicar no link do problema que direciona para o LeetCode e rodar o código diretamente na plataforma.
+<!--## Outros
+
 Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
 
-
-
-
+-->
