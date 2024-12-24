@@ -24,20 +24,20 @@ complexidade sobre Dividir e Conquistar.
 #### Exercício 01 - 
 
 Dificuldade: Difícil <br>
-Descrição do Problema: []()<br>
-Solução: ![]()
+Descrição do Problema: [Reverse Pairs](https://leetcode.com/problems/reverse-pairs/description/)<br>
+Solução: ![493](./493/493.png)
 
 #### Exercício 02 - 
 
 Dificuldade: Difícil <br>
-Descrição do Problema: []()<br>
-Solução: ![]()
+Descrição do Problema: [The Skyline Problem](https://leetcode.com/problems/the-skyline-problem/description/?envType=problem-list-v2&envId=divide-and-conquer)<br>
+Solução: ![218](./218/218.png)
 
 #### Exercício 03 - 
 
 Dificuldade: Difícil <br>
-Descrição do Problema: []()<br>
-Solução: ![]()
+Descrição do Problema: [Count of Range Sum](https://leetcode.com/problems/count-of-range-sum/description/)<br>
+Solução: ![327](./327/327.png)
 
 ## Instalação
 
